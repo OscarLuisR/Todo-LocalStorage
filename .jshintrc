@@ -1,0 +1,31 @@
+{
+    "esversion": 9,
+    "node": true,
+    "browser": true,
+    "globals": {
+        "console": true,
+        "alert": true,
+        "confirm": true,
+        "prompt": true
+    }
+}
+
+/* {
+    "esversion": 6,
+    "browser": true,
+    "undef": true,
+    "varstmt": true,
+    "forin": true,
+    "unused": true,
+    "funcscope": true,
+    "lastsemic": true,
+    "moz": true,
+    "jquery": true,
+    "module": true,
+    "devel": true,
+    "globals": {
+        "window": true,
+        "document": true,
+        "console": true,
+        "alert": true
+    } */
